@@ -1,3 +1,4 @@
+#test
 require 'digest'
 
 if (Gem.win_platform?)
